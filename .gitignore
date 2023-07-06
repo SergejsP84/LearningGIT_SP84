@@ -1,0 +1,7 @@
+*.log
+!error.log
+*~
+/TODO
+build/doc/*.txt
+!doc/server/arch.txt
+doc/**/*.pdf
